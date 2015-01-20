@@ -3,3 +3,5 @@
 [Deep Neural Networks](dnn)
 
 [System Design](sys-des)
+
+[Workload Characterization](wc)
