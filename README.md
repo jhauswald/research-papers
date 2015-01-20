@@ -5,3 +5,5 @@
 [System Design](sys-des)
 
 [Workload Characterization](wc)
+
+[Computer Vision](vis)
