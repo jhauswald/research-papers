@@ -6,6 +6,7 @@
 
 [Workload Characterization](wc)
 
+[Computer Vision](vis)
 
 ### Papers organized by project
 
