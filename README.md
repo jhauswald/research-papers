@@ -7,3 +7,7 @@
 [Workload Characterization](wc)
 
 [Computer Vision](vis)
+
+### Papers organized by project
+
+[Computational Sprinting for Facial Recognition](sprint-deepface)
